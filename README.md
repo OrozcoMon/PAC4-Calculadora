@@ -67,13 +67,31 @@ Una calculadora bàsica desenvolupada amb **Windows Presentation Foundation (WPF
 ## <i class="fas fa-images"></i> Exemples
 
 
-**_Input: 5 + 3_**
-**_Resultat: 8_**
-![Exemple de suma 1](screenshots/Suma_1.png) ![Exemple de suma 2](screenshots/Suma_2.png)
+<h4>Operació sumatòria</h4>
+<p><b>Exemple: 5 + 3 = 8</b></p>
+<p>
+  <img src="screenshots/Suma_1.png" width="30%" alt="Exemple de suma 1"/>
+  <img src="screenshots/Suma_2.png" width="30%" alt="Exemple de suma 2"/>
+</p>
 
+---
 
-![Exemple d’operació encadenada](screenshots/chained.png)  
-_Exemple: 5 + 3 * 2 = 11_
+<h4>Operació encadenada</h4>
+<p><b>Exemple: 5 + 3 × 2 = 11</b></p>
+<p>
+  <img src="screenshots/Encadenat_1.png" width="30%" alt="Exemple encadenat 1"/>
+  <img src="screenshots/Encadenat_2.png" width="30%" alt="Exemple encadenat 2"/>
+</p>
+
+---
+
+<h4>Operació amb error</h4>
+<p><b>Exemple: 6 / 6 / → Error</b></p>
+<p>
+  <img src="screenshots/Error_1.png" width="30%" alt="Entrada invàlida"/>
+  <img src="screenshots/Error_2.png" width="30%" alt="Pantalla error"/>
+</p>
+
 
 ---
 
